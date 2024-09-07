@@ -42,6 +42,11 @@
 
 ![NoVerify](https://github.com/user-attachments/assets/8dd92625-452b-4b27-b93d-e573e87d40ff)
 
+Или
+
+![uval](https://github.com/user-attachments/assets/bd5468c8-e4f5-42c9-8163-8f283dae3391)
+
+
 
 Помните доверять файлам можно только если результат проверки выглядит так:
 ![Verify](https://github.com/user-attachments/assets/cfd5ed1b-0f65-41b0-9268-0f5c3c70201f)
